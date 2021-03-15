@@ -1,0 +1,58 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:2627:"                        <div class="top-menu ">
+                
+
+
+    <ul class="ty-menu__items cm-responsive-menu">
+        
+            <li class="ty-menu__item ty-menu__menu-btn visible-phone">
+                <a class="ty-menu__item-link">
+                    <i class="ty-icon-short-list"></i>
+                    <span>Menu</span>
+                </a>
+            </li>
+
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__products">
+                                        <a  class="ty-menu__item-link" >
+                        Catalog
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__brands">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=product_features.view_all&amp;filter_id=10" class="ty-menu__item-link" >
+                        Brands
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__newest">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.newest" class="ty-menu__item-link" >
+                        Newest
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu__item-active ty-menu-item__hits">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.bestsellers" class="ty-menu__item-link" >
+                        Bestsellers
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__sale">
+                                        <a  href="http://localhost/cscart/index.php?dispatch=products.on_sale" class="ty-menu__item-link" >
+                        Sales
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__promotions">
+                                        <a  href="http://localhost/cscart/promotions/" class="ty-menu__item-link" >
+                        Promotions
+                    </a>
+                            </li>
+        
+        
+
+    </ul>
+
+
+
+                    </div>
+            ";}s:6:"expiry";i:0;}
